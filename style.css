@@ -1,0 +1,21 @@
+body {
+  background-color: #f0f8ff; /* Cambiá este color si querés otro fondo */
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  padding: 40px;
+}
+
+img.logo {
+  width: 100px; /* Ajustá el tamaño del logo */
+  height: auto;
+}
+
+h1 {
+  color: #333;
+  margin-top: 20px;
+}
