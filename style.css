@@ -1,5 +1,8 @@
 
-
+body {
+    margin: 0;
+    background-color: #f58a8a; 
+}
 header {
   display: flex;
   align-items: center;
@@ -15,8 +18,4 @@ header {
 img.logo {
   width: 100px;
   height: auto;
-}
-body {
-    margin: 0;
-    background-color: #f58a8a; 
 }
