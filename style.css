@@ -1,17 +1,17 @@
 body {
-  background-color: #f0f8ff; /* Cambiá este color si querés otro fondo */
+  background-color: #1479d1;                                                                                                                                                                      
   text-align: center;
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
 }
 
-header {
+header {                                                                
   padding: 40px;
 }
 
 img.logo {
-  width: 100px; /* Ajustá el tamaño del logo */
+  width: 100px;  
   height: auto;
 }
 
